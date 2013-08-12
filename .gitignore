@@ -1,0 +1,7 @@
+.DS_Store
+*.py?
+*.sw?
+*.egg-info
+dist
+MANIFEST
+tests/hubroot
